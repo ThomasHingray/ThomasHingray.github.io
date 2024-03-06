@@ -150,7 +150,6 @@ function genererQuestion (listeQuestions){
 
 // générer les propositions suivantes
 function genererPropositions (listeQuestions){
-    let dataList=""
     let nouvelleProposition = document.createElement("div")
     let question = listeQuestions[numeroQuestion]
 
@@ -177,7 +176,7 @@ function genererDino(){
     let box = Math.floor(Math.random()*3)
     let dino = Math.floor(Math.random()*6)
     let conteneurFantome = document.createElement("div")
-    conteneurFantome.innerHTML= `<div class="conteneur-fantome${box}"><img src="images/fantome${dino}.png"></div>`
+    conteneurFantome.innerHTML= `<div class="conteneur-fantome${box}"><img src="./images/fantome${dino}.png"></div>`
     conteneurFinal.append(conteneurFantome)
 
     let fantome=document.querySelector(".conteneur-fantome"+box)
@@ -212,7 +211,7 @@ function finJeu (){
     let copyright = document.createElement("div")
     copyright.classList.add("copyright")
     copyright.innerHTML=`<a href="https://www.benjaminmackey.com/jurassic-classics#2">Image : Benjamin Mackey</a>`
-    conteneurPropositions.setAttribute("style","background-image:url(images/" + dinosaureFinal +".jpg)")
+    conteneurPropositions.setAttribute("style","background-image:url(./images/" + dinosaureFinal +".jpg)")
     conteneurPropositions.setAttribute("id","imageDino")
     conteneurPropositions.append(texteFinal)
     conteneurPropositions.append(copyright)
@@ -221,7 +220,7 @@ function finJeu (){
 
 
     let conteneurInput= document.querySelector(".conteneur-input")
-    conteneurInput.innerHTML=`<a href="index.html" > <img class = bouton src="/images/boutonRejouer.png" alt="Rejouer"> </a>`
+    conteneurInput.innerHTML=`<a href="index.html" > <img class = bouton src="./images/boutonRejouer.png" alt="Rejouer"> </a>`
 }
 
 
