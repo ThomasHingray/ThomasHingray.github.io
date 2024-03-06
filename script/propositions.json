@@ -1,0 +1,29 @@
+[ 
+    {
+        {
+            "dinosaure":"1",
+            "reponse":"Tu prends la fuite"
+        },
+        {
+            "dinosaure":"2",
+            "reponse":"Tu essaies de l'intimider"
+        },
+        {
+            "dinosaure":"3",
+            "reponse":"Tu manifestes ta présence en poussant un cri de salutation"
+        },
+        {
+            "dinosaure":"4",
+            "reponse":"Tu l'invites à venir manger avec toi"
+        },
+        {
+            "dinosaure":"5",
+            "reponse":"Tu restes discret"
+        },
+        {
+            "dinosaure":"6",
+            "reponse":"Tu passes à l'attaque"
+        }
+    }
+    
+]

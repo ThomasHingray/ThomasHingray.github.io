@@ -1,0 +1,56 @@
+/**font-family: 'Manrope', sans-serif;
+font-family: 'Montserrat', sans-serif;**/
+/** color-chart: #5E66F2;
+                #797FF2;
+                #02735E;
+                #038C33;
+                #F2E5E4; **/
+
+* {
+    margin:0;
+}
+
+body {
+    background-color: #F2E5E4;
+    background-image: url(/images/Background.png);
+    background-position:bottom;
+    background-repeat:no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+
+    text-align:center;
+    font-family: 'Manrope', sans-serif;
+}
+
+h1 {
+    display:inline-block;
+    background:radial-gradient(#02735E, #038C33) ;       
+    color:#F2E5E4;
+    padding:30px 60px;
+    margin-top:80px;
+    border-radius: 74% 26% 66% 34% / 30% 41% 59% 70% ;
+    box-shadow:
+    7px 5.6px 10px rgba(0, 0, 0, 0.165),
+    56px 45px 80px rgba(0, 0, 0, 0.33);
+}
+
+.conteneur-jeu {
+    width:45%;
+    margin:auto;
+    color:#038C33;
+}
+
+    .conteneur-jeu > p{
+        background-color: #F2E5E4;
+        padding:5px;
+        border-radius: 10px;;
+    }
+
+@media all and (max-width:1000px){
+    .conteneur-jeu {
+        width:90%;
+        font-size:2em;
+    }
+    
+}
+

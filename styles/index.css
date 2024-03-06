@@ -1,0 +1,46 @@
+h2 {
+    font-size:1.1em;
+    background: radial-gradient(#5E66F2, #797FF2);
+    color:#F2E5E4;
+    padding:15px;
+    margin-top: -10px;
+    padding-left: 10%;
+}
+
+
+h3 {
+    display:inline-block;
+    font-weight:900;
+    font-size:1.5em;
+    margin:40px 0 20px;
+    color:#02735E;
+    padding:30px;
+    text-shadow:4px 2px 7px black;
+}
+
+.bouton {
+    display:inline-block;
+    position:relative;
+    transition:0.5s;
+}
+
+    .bouton img{
+        width:150px;
+        rotate:-42deg;
+    }
+
+    .bouton:hover {
+        scale:1.5;
+        rotate:360deg;
+        transition:0.5s;
+    }
+
+@media all and (max-width:1000px){
+    .bouton img{
+        width:30%;
+    }
+
+    h1{
+        font-size: 3em;
+    }
+}

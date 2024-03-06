@@ -1,0 +1,51 @@
+[
+    {
+        "nom":"Diplodocus",
+        "description":"Majestueux animal au long cou, ton dinosaure intérieur est très grand mais ne regarde jamais de haut. Philosophe sans y prétendre, tu sais profiter de la vie au jour le jour. Bien que la solitude ne t'effraies pas, tu apprécies toute compagnie et aimes particulièrement récolter les histoires de nouvelles rencontres autour d'un bon repas. Tu te poses des questions, comme tout le monde, mais ne cherches pas à y répondre à tout prix. Sois fièr.e de cette sagesse et fais en profiter ton entourage !"
+    },
+    {
+        "nom":"Triceratops",
+        "description":"Véritable bastion ambulant, ton dinosaure intérieur est inébranlable. Tu privilégies des relations de qualité avec des personnes qui ont de la valeur à tes yeux. S'il est ardu de mériter ta confiance, toute personne qui l'acquiert sait qu'elle peut compter sur toi. D'un naturel pacifique, tu es une redoutable machine de guerre si l'on touche à tes amis. D'ailleurs, tu pourrais les suivre au bout du monde: ton foyer est partout où sont les personnes auxquelles tu tiens."
+    },
+    {
+        "nom":"Stegosaure",
+        "description":"Quelles magnifiques plaques dorsales que celles qui ornent ton dinosaure intérieur ! Appréciant la reconnaissance de tes pairs, tu aimes les milieux fréquentés car tu sais y trouver quelqu'un à qui faire plaisir. Tu te sens bien quand tu vois la petite lueur de joie dans les yeux des bénéficiaires de tes petites attentions. A la moindre accroche, c'est vers toi que l'on se tourne pour désamorcer les situations conflictuelles. Attention cependant à ne pas laisser les autres profiter de ta gentillesse !"
+    },
+    {
+        "nom":"Tyrannosaurus-rex",
+        "description":"Ton dinosaure intérieur est de lignée royale ! Comme lui, tu aspires à protéger et nourrir ta famille restreinte. Les autres ? Qu'ils se débrouillent ! Ce qui compte pour toi, c'est de protéger ton foyer, et tu possèdes une source d'énergie intarrissable pour y parvenir. Peu attiré.e par le voyage, tu préfères investir dans ton habitat, auquel tu es très attaché.e . N'oublie pas de t'ouvrir aux autres cependant, tu pourrais être surpris.e de tout ce qu'ils ont à t'apporter !"
+    },
+    {
+        "nom":"Raptor",
+        "description":"Rapide et intelligent, ton dinosaure intérieur est célèbre pour ses compétences sociales. L'organisation n'a pas de secrets pour toi, d'ailleurs tes semblables le savent bien et s'appuient sur toi pour faire les meilleurs choix. Opportuniste, tu sais forcer la main à la chance pour arriver à tes fins. Pourtant, tu n'aimes pas particulièrement la routine : toujours en quête d'un nouveau projet, ton maître mot est l'adaptabilité. N'hésites pas à lâcher prise de temps en temps, la spontanéïté peut faire du bien!"
+    },
+    {
+        "nom":"Parasaurolophus",
+        "description":"Jamais très loin d'une jolie mare où patauger, ton dinosaure intérieur aime sa petite routine. Entouré d'un petit groupe d'amis fidèles, tu as tes habitudes et rechignes à les changer sans être totalement fermé à de nouvelles expériences. Tu détestes avoir la sensation de déranger, et lorsqu'une situation te déplait, tu préfères t'esquiver discrètement. Cela ne t'empêche pas de savoir t'amuser, tu es d'ailleurs quelqu'un de très jovial quand tu es en confiance ! Parfois, déranger peut avoir des conséquences positives !"
+    },
+    {
+        "nom":"Ankylosaure",
+        "description":"Ton dinosaure intérieur allie puissance et douceur. Comme lui, tu te sens parfois maladroit. Aussi, tu préfères les endroits peu fréquentés ou personne n'est susceptible de te juger. Amoureux des arts, tu ne rates jamais une occasion de te cultiver davantage. Tu rêves de voyage et d'aventures, et t'imagines souvent que ta place n'est pas où tu es. Pourtant, tu es une personne qui attire facilement l'affection et tu es bien entourée. Peut-être regardes-tu parfois si loin que tu passes à côté de bons moments à proximité ..."
+    },
+    {
+        "nom":"Struthiomimus",
+        "description":"Non, ton dinosaure intérieur n'est pas une autruche... Mais presque ! Tu aimes être entouré et tu es très sociable, tu as d'ailleurs tendance à t'ennuyer quand tu es seul . Tu préfères les activités nocturnes et peux avoir tendance à repousser le réveil ! D'un naturel plutôt extraverti, tu n'hésites pas à aller au devant de nouvelles rencontres pour tirer un maximum de fun de chaque journée. Pour couronner le tout, il est facile d'avoir des conversations profondes avec toi, ce qui peut faire beaucoup de bien à ton entourage."
+    },
+    {
+        "nom":"Dilophosaure",
+        "description":"L'intimidante beauté de ton dinosaure intérieur est sa meilleure arme ... ça et des crachats venimeux ! Quand tu es en compagnie de tes meilleurs amis, rien ne peut vous arrêter. Les idées les plus folles semblent tout à coup réalisables et le regard des autres n'a plus d'importance. D'apparence très décontracté et extraverti, tu es beaucoup plus réservé en l'absence de tes compagnons. Vous avez vos fiefs de prédilection, et êtes beaucoup moins insouciants en terrain inconnu."
+    },
+    {
+        "nom":"Spinosaure",
+        "description":"Quelle puissance, quel panache ! Comme ton dinosaure intérieur, tu peux être très affecté par le regard des autres . Tes talents naturels font que l'on attend beaucoup de toi, ce qui te pousse à rechercher l'excellence. Toujours volontaire pour rendre service, tu espères que l'on se rendra un jour compte de ta vraie valeur. Une petite partie de toi souhaite prendre son temps, se reposer... Mais tu sais faire taire cette voix pour te donner à 2000% ! Il serait peut-être judicieux de l'écouter de temps en temps..."
+    },
+    {
+        "nom":"Compsognathus",
+        "description":"Sur la planète des géants, ton dinosaure intérieur se faufile entre les pattes de ses voisins. Comme lui, tu es convaincu que l'union fait la force et tu tiens à être bien entouré. La ruse est ta seconde arme, et tu n'hésites pas à en faire usage pour tourner les situations à ton avantage. D'un tempérament espiègle, on t'aime pour tes petites taquineries, gages de ton affection. En revanche, il peut arriver que ton besoin d'être accompagné pour agir ait pour conséquences un manque d'initiative..."
+    },
+    {
+        "nom":"Baryonyx",
+        "description":"Ton dinosaure intérieur est un drôle d'animal ! Quand certains pensent noir et les autres blanc, tu penses magenta ou saumon. D'ailleurs, si tu n'es pas contre l'idée de passer du temps avec les autres, tu te fiches royalement de ce qu'ils pensent de toi. Tu es une personne de confiance que l'on est heureuc de rencontrer, car tu sais t'intéresser aux gens sans jugement et collectionner les histoires de tes rencontres comme un précieux trésor que tu partages allègrement."
+    }
+    
+]

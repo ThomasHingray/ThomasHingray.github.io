@@ -1,0 +1,494 @@
+[
+    {
+        "id":"1",
+        "question":"Un dinosaure inconnu approche... Comment réagis-tu ?",
+        "propositions":[
+            {
+                "dinosaure1":"Ankylosaure",
+                "dinosaure2":"Compsognathus",
+                "reponse":"Tu prends la fuite, il n'a pas l'air commode !"
+            },
+            {
+                "dinosaure1":"Spinosaure",
+                "dinosaure2":"Raptor",
+                "reponse":"Tu essaies de l'intimider, pour poser les bases."
+            },
+            {
+                "dinosaure1":"Struthiomimus",
+                "dinosaure2":"Stegosaure",
+                "reponse":"Tu manifestes ta présence en poussant un cri de salutation."
+            },
+            {
+                "dinosaure1":"Baryonyx",
+                "dinosaure2":"Diplodocus",
+                "reponse":"Tu l'invites à venir manger avec toi, il a l'air sympa."
+            },
+            {
+                "dinosaure1":"Parasaurolophus",
+                "dinosaure2":"Dilophosaure",
+                "reponse":"Tu restes discret, mieux vaut se méfier des inconnus."
+            },
+            {
+                "dinosaure1":"T-rex",
+                "dinosaure2":"Triceratops",
+                "reponse":"Tu passes à l'attaque : mieux vaut éliminer une menace potentielle."
+            }
+        ]
+    },
+    {
+        "id":"2",
+        "question": "La grande période de migration arrive ! Que fais-tu ?",
+        "propositions":[
+            {
+                "dinosaure1":"T-rex",
+                "dinosaure2":"Diplodocus",
+                "reponse":"Tu t'installes bien confortablement dans ton nid et regardes les autres partir."
+            },
+            {
+                "dinosaure1":"Stegosaure",
+                "dinosaure2":"Dilophosaure",
+                "reponse":"Tu suis ton troupeau où qu'il aille, tant que vous restez ensemble."
+            },
+            {
+                "dinosaure1":"Triceratops",
+                "dinosaure2":"Parasaurolophus",
+                "reponse":"Tu diriges ton troupeau vers votre destination habituelle."
+            },
+            {
+                "dinosaure1":"Baryonyx",
+                "dinosaure2":"Ankylosaure",
+                "reponse":"Tu pars seul à l'aventure : c'est beaucoup plus excitant !"
+            },
+            {
+                "dinosaure1":"Raptor",
+                "dinosaure2":"Spinosaure",
+                "reponse":"Tu fonces en éclaireur pour sécuriser le chemin."
+            },
+            {
+                "dinosaure1":"Compsognathus",
+                "dinosaure2":"Struthiomimus",
+                "reponse":"Tu cherches à convaincre le troupeau de rester."
+            }
+        ]
+    },
+    {
+        "id":"3",
+        "question":"L'endroit idéal pour installer ton nid est:",
+        "min":"Isolé",
+        "max":"Très peuplé",
+        "propositions":[
+            {
+                "dinosaure1":"Ankylosaure"
+            },
+            {
+                "dinosaure1":"T-rex"
+            },
+            {
+                "dinosaure1":"Parasaurolophus"
+            },
+            {
+                "dinosaure1":"Triceratops"
+            },
+            {
+                "dinosaure1":"Baryonyx"
+            },
+            {
+                "dinosaure1":"Dilophosaure"
+            },
+            {
+                "dinosaure1":"Diplodocus"
+            },
+            {
+                "dinosaure1":"Raptor"
+            },
+            {
+                "dinosaure1":"Compsognathus"
+            },
+            {
+                "dinosaure1":"Spinosaure"
+            },
+            {
+                "dinosaure1":"Stegosaure"
+            },
+            {
+                "dinosaure1":"Struthiomimus"
+            }
+            
+        ]
+    },
+    {
+        "id":"4",
+        "question":"Tu te réveilles d'une bonne nuit de sommeil, comment te sens-tu ?",
+        "propositions":[
+            {
+                "dinosaure1":"T-rex",
+                "dinosaure2":"Triceratops",
+                "reponse":"Tu veux voir les membres de ta famille et t'assurer qu'ils vont bien."
+            },
+            {
+                "dinosaure1":"Struthiomimus",
+                "dinosaure2":"Compsognathus",
+                "reponse":"Tu veux voir tes amis pour vous amuser ensemble."
+            },
+            {
+                "dinosaure1":"Diplodocus",
+                "dinosaure2":"Dilophosaure",
+                "reponse":"Tu es affamé, tu mangerais n'importe quoi (... ou n'importe qui?)"
+            },
+            {
+                "dinosaure1":"Parasaurolophus",
+                "dinosaure2":"Baryonyx",
+                "reponse":"Tu es très grognon, ce n'est pas le moment de t'embêter."
+            },
+            {
+                "dinosaure1":"Stegosaure",
+                "dinosaure2":"Ankylosaure",
+                "reponse":"Tu es enthousiaste à l'idée de vivre cette nouvelle journée !"
+            },
+            {
+                "dinosaure1":"Raptor",
+                "dinosaure2":"Spinosaure",
+                "reponse":"Tu veux faire du sport : la santé avant tout !"
+            }
+        ]
+    },
+    {
+        "id":"5",
+        "question":"Selon toi, quelle est la meilleure arme pour se défendre ?",
+        "propositions":[
+            {
+                "dinosaure1":"T-rex",
+                "dinosaure2":"Spinosaure",
+                "reponse":"Des crocs bien affutés"
+            },
+            {
+                "dinosaure1":"Struthiomimus",
+                "dinosaure2":"Ankylosaure",
+                "reponse":"Courir vite"
+            },
+            {
+                "dinosaure1":"Diplodocus",
+                "dinosaure2":"Dilophosaure",
+                "reponse":"L'intimidation"
+            },
+            {
+                "dinosaure1":"Baryonyx",
+                "dinosaure2":"Raptor",
+                "reponse":"L'intelligence"
+            },
+            {
+                "dinosaure1":"Compsognathus",
+                "dinosaure2":"Parasaurolophus",
+                "reponse":"Être plus nombreux"
+            },
+            {
+                "dinosaure1":"Triceratops",
+                "dinosaure2":"Stegosaure",
+                "reponse":"Des défenses aiguisées"
+            }
+        ] 
+    },
+    {
+        "id":"6",
+        "question":"Tu es entrain de rêver. Tu es entouré de toutes sortes de dinosaures ! Il te paraissent:",
+        "min":"Tout petit",
+        "max":"Gigantesques",
+        "propositions":[
+            {
+                "dinosaure1":"Diplodocus"
+            },
+            {
+                "dinosaure1":"T-rex"
+            },
+            {
+                "dinosaure1":"Spinosaure"
+            },
+            {
+                "dinosaure1":"Baryonyx"
+            },
+            {
+                "dinosaure1":"Ankylosaure"
+            },
+            {
+                "dinosaure1":"Triceratops"
+            },
+            {
+                "dinosaure1":"Parasaurolophus"
+            },
+            {
+                "dinosaure1":"Stegosaure"
+            },
+            {
+                "dinosaure1":"Struthiomimus"
+            },
+            {
+                "dinosaure1":"Raptor"
+            },
+            {
+                "dinosaure1":"Dilophosaure"
+            },
+            {
+                "dinosaure1":"Compsognathus"
+            }
+            
+        ]
+    },
+    {
+        "id":"7",
+        "question":"Un arbre est tombé sur un dinosaure, il est coincé.",
+        "propositions":[
+            {
+                "dinosaure1":"Spinosaure",
+                "dinosaure2":"Stegosaure",
+                "reponse":"Tu lui viens en aide en poussant de toutes tes forces"
+            },
+            {
+                "dinosaure1":"Parasaurolophus",
+                "dinosaure2":"Ankylosaure",
+                "reponse":"Tu fais demi-tour, quelqu'un finira bien par l'aider"
+            },
+            {
+                "dinosaure1":"Raptor",
+                "dinosaure2":"Compsognathus",
+                "reponse":"Tu l'achèves pour le manger, quelle aubaine!"
+            },
+            {
+                "dinosaure1":"Struthiomimus",
+                "dinosaure2":"Dilophosaure",
+                "reponse":"Tu vas chercher l'aide de tes amis, l'union fait la force"
+            },
+            {
+                "dinosaure1":"Diplodocus",
+                "dinosaure2":"Baryonyx",
+                "reponse":"Tu appelles au secours en restant auprès de lui"
+            },
+            {
+                "dinosaure1":"T-rex",
+                "dinosaure2":"Triceratops",
+                "reponse":"Tu l'aides à condition qu'il te soit redevable"
+            }
+        ]
+    },
+    {
+        "id":"8",
+        "question":"Tu tombes sur un nid laissé sans surveillance... avec des oeufs!",
+        "propositions":[
+            {
+                "dinosaure1":"Struthiomimus",
+                "dinosaure2":"Triceratops",
+                "reponse":"Tu les adoptes, il seront certainement mieux avec toi."
+            },
+            {
+                "dinosaure1":"Diplodocus",
+                "dinosaure2":"Stegosaure",
+                "reponse":"Tu les surveilles jusqu'au retour de leurs parents."
+            },
+            {
+                "dinosaure1":"Baryonyx",
+                "dinosaure2":"Parasaurolophus",
+                "reponse":"Tu t'en vas discrètement pour ne pas paraître mal intentionné."
+            },
+            {
+                "dinosaure1":"Ankylosaure",
+                "dinosaure2":"Spinosaure",
+                "reponse":"Tu pars à la recherche du propriétaire du nid."
+            },
+            {
+                "dinosaure1":"Dilophosaure",
+                "dinosaure2":"T-rex",
+                "reponse":"Miam, un bon repas riche en protéines !"
+            },
+            {
+                "dinosaure1":"Raptor",
+                "dinosaure2":"Compsognathus",
+                "reponse":"Tu les prends pour faire du troc, ça intéressera certainement quelqu'un."
+            }
+        ]
+    },
+    {
+        "id":"9",
+        "question":"Oh non ! La source d'eau est tarie ! Quelle est ta réaction ?",
+        "propositions":[
+            {
+                "dinosaure1":"Baryonyx",
+                "dinosaure2":"Diplodocus",
+                "reponse":"Oh non ! La source d'eau est tarie !"
+            },
+            {
+                "dinosaure1":"Stegosaure",
+                "dinosaure2":"Parasaurolophus",
+                "reponse":"Tu guides les autres vers ta réserve secrète."
+            },
+            {
+                "dinosaure1":"Spinosaure",
+                "dinosaure2":"Compsognathus",
+                "reponse":"Tu pars à la recherche d'eau pour sauver la communauté !"
+            },
+            {
+                "dinosaure1":"Dilophosaure",
+                "dinosaure2":"Triceratops",
+                "reponse":"Tu rassembles tes proches pour leur montrer une source cachée."
+            },
+            {
+                "dinosaure1":"Raptor",
+                "dinosaure2":"T-rex",
+                "reponse":"Tu prends le contrôle des autres points d'eau et organise un rationnement."
+            },
+            {
+                "dinosaure1":"Struthiomimus",
+                "dinosaure2":"Ankylosaure",
+                "reponse":"On va tous MOURIR !!!"
+            }
+        ]
+    },
+    {
+        "id":"10",
+        "question":"Tu t'es seulement absenté 15 secondes et... on t'a volé ton casse-croûte!!!",
+        "propositions":[
+            {
+                "dinosaure1":"T-rex",
+                "dinosaure2":"Spinosaure",
+                "reponse":"Tu manges le premier qui te parle."
+            },
+            {
+                "dinosaure1":"Raptor",
+                "dinosaure2":"Compsognathus",
+                "reponse":"On t'appelles Sherlockosaure, tu trouveras le coupable."
+            },
+            {
+                "dinosaure1":"Baryonyx",
+                "dinosaure2":"Diplodocus",
+                "reponse":"Tu trouves autre chose à manger, tu n'es pas difficile."
+            },
+            {
+                "dinosaure1":"Stegosaure",
+                "dinosaure2":"Ankylosaure",
+                "reponse":"Tu t'assoies. Et tu pleures."
+            },
+            {
+                "dinosaure1":"Parasaurolophus",
+                "dinosaure2":"Triceratops",
+                "reponse":"Tu vas voir tes parents, ils ont toujours un encas pour toi."
+            },
+            {
+                "dinosaure1":"Struthiomimus",
+                "dinosaure2":"Dilophosaure",
+                "reponse":"Tu demandes de l'aide à tes fidèles amis pour retrouver à manger."
+            }
+        ]
+    },
+    {
+        "id":"11",
+        "question":"La migration se termine, vous apercevez le meilleur endroit possible pour faire votre nid. Mais Tout le monde l'a vu. C'est l'heure de la course et vous êtes:",
+        "min":"Terriblement lent",
+        "max":"Plus rapide que le vent",
+        "propositions":[
+            {
+                "dinosaure1":"Diplodocus"
+            },
+            {
+                "dinosaure1":"Ankylosaure"
+            },
+            {
+                "dinosaure1":"Stegosaure"
+            },
+            {
+                "dinosaure1":"Triceratops"
+            },
+            {
+                "dinosaure1":"Parasaurolophus"
+            },
+            {
+                "dinosaure1":"Baryonyx"
+            },
+            {
+                "dinosaure1":"Spinosaure"
+            },
+            {
+                "dinosaure1":"Dilophosaure"
+            },
+            {
+                "dinosaure1":"Compsognathus"
+            },
+            {
+                "dinosaure1":"Struthiomimus"
+            },
+            {
+                "dinosaure1":"T-rex"
+            },
+            {
+                "dinosaure1":"Raptor"
+            }
+            
+        ]
+    },
+    {
+        "id":"12",
+        "question": "Ce sont les grands jeux préhistoriques. Quelle est ta spécialité ?",
+        "propositions":[
+            {
+                "dinosaure1":"Baryonyx",
+                "dinosaure2":"T-rex",
+                "reponse":"Le jurassique-sprint."
+            },
+            {
+                "dinosaure1":"Raptor",
+                "dinosaure2":"Struthiomimus",
+                "reponse":"Le dinoBall."
+            },
+            {
+                "dinosaure1":"Spinosaure",
+                "dinosaure2":"Diplodocus",
+                "reponse":"Le crétaraté."
+            },
+            {
+                "dinosaure1":"Ankylosaure",
+                "dinosaure2":"Dilophosaure",
+                "reponse":"Le trias-thlon."
+            },
+            {
+                "dinosaure1":"Compsognathus",
+                "dinosaure2":"Parasaurolophus",
+                "reponse":"Le paléo-polo."
+            },
+            {
+                "dinosaure1":"Stegosaure",
+                "dinosaure2":"Triceratops",
+                "reponse":"Le rugbyzoïque."
+            }
+        ]
+    }
+    
+]
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
