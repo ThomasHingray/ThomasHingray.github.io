@@ -12,7 +12,7 @@ font-family: 'Montserrat', sans-serif;**/
 
 body {
     background-color: #F2E5E4;
-    background-image: url(/images/Background.png);
+    background-image: url(./images/Background.png);
     background-position:bottom;
     background-repeat:no-repeat;
     background-size: cover;
