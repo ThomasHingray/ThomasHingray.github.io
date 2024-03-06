@@ -1,5 +1,13 @@
 {
+  "homepage":"https://thomashingray.github.io/testDino/",
   "dependencies": {
     "chart.js": "^4.4.2"
+  },
+  "devDependencies": {
+    "gh": "^2.8.9",
+    "pages": "^0.0.16"
+  },
+  "scripts":{
+    "deploy": "gh pages -d build"
   }
 }
