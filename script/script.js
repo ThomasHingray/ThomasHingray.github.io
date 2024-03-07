@@ -311,8 +311,6 @@ btnValider.addEventListener("click", function(){
     conteneurJeu.appendChild(conteneurQuestion)
     conteneurJeu.appendChild(conteneurPropositions)
 
-    console.log(struthiomimus)
-
     window.scrollTo({
         top:0,
         left:0,
