@@ -379,7 +379,7 @@
     },
     {
         "id":"11",
-        "question":"La migration se termine, vous apercevez le meilleur endroit possible pour faire votre nid. Mais Tout le monde l'a vu. C'est l'heure de la course et vous êtes:",
+        "question":"La migration se termine, tu aperçois le meilleur endroit possible pour faire ton nid. Mais tout le monde l'a vu ! C'est l'heure de la course et tu es:",
         "min":"Terriblement lent",
         "max":"Plus rapide que le vent",
         "propositions":[
